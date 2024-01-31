@@ -31,6 +31,6 @@
   - DBサーバーを終了した場合
     - Railsアプリケーションはdbへの接続エラーになる
 
-![browser.png](images/browser.png)
+![stopped_dbserver.png](images/stopped_dbserver.png)
   - Railsの構成管理ツールの名前
     - **Bundler**
