@@ -10,7 +10,7 @@
 
 
 ## 課題
-1. AP サーバーについて調べる 
+### AP サーバーについて調べる 
 - ブラウザからのアクセス
 
 ![browser.png](images/browser.png)
@@ -21,7 +21,7 @@
   - APサーバーを終了するとアクセスできない
 
 ![stopped_puma.png](images/stopped_puma.png)
-1. DB サーバーについて調べる      
+### DB サーバーについて調べる      
   - アプリで使っているDBエンジンの名前
     - MySQL Server
   - Cloud9で動作しているバージョン
