@@ -1,5 +1,5 @@
 ## 学んだこと
-- .sockとはUnixソケットファイルの拡張子で、このファイルを介してマシン上の異なるプロセスが通信することを実現できる特殊なファイルである。
+- .sockとはUnixソケットファイルの拡張子で、このファイルを介してマシン上の異なるプロセスが通信することを実現できる特殊なファイルである
 - RailsのDBや連携するためのsocketの設定方法
 - mysqlのバージョンは`mysql --version`だけでなくデータベース内で`SELECT VERSION();`として表示する方法もある
 
@@ -33,4 +33,7 @@
 
 ![stopped_dbserver.png](images/stopped_dbserver.png)
   - Railsの構成管理ツールの名前
-    - **Bundler**
+    - Bundler
+
+![bundler.png](images/bundler.png)
+
