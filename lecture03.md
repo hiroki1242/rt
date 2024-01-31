@@ -12,20 +12,20 @@
 ## 課題
 1. AP サーバーについて調べる 
   - ブラウザからのアクセス
-  ![browser.png](images/browser.png)
+    ![browser.png](images/browser.png)
   - APサーバーの名前とバージョン
     - Puma / version: 5.6.8
-  ![puma.png](images/puma.png)
+      ![puma.png](images/puma.png)
   - APサーバーを終了するとアクセスできない
-  ![stopped_puma.png](images/stopped_puma.png)
+    ![stopped_puma.png](images/stopped_puma.png)
 1. DB サーバーについて調べる      
   - アプリで使っているDBエンジンの名前
     - MySQL Server
   - Cloud9で動作しているバージョン
     - 8.0.36
-  ![dbengine_version.png](images/dbengine_version.png)
+      ![dbengine_version.png](images/dbengine_version.png)
   - DBサーバーを終了した場合
     - Railsアプリケーションはdbへの接続エラーになる
-  ![browser.png](images/browser.png)
+      ![browser.png](images/browser.png)
   - Railsの構成管理ツールの名前
     - **Bundler**
